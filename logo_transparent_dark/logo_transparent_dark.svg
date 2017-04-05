@@ -15,10 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="logo_transparent.svg"
-   inkscape:export-filename="/home/zigapk/Desktop/graphics/logo_transparent_dark/export/logo_transparent_dark_512.png"
-   inkscape:export-xdpi="24"
-   inkscape:export-ydpi="24">
+   sodipodi:docname="logo_transparent_dark.svg"
+   inkscape:export-filename="/home/zigapk/Desktop/graphics/logo_transparent_dark/export/logo_transparent_dark_64.png"
+   inkscape:export-xdpi="3.0000002"
+   inkscape:export-ydpi="3.0000002">
   <defs
      id="defs2">
     <filter
@@ -62,8 +62,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.12374369"
-     inkscape:cx="-1483.8808"
-     inkscape:cy="1215.695"
+     inkscape:cx="-53.504835"
+     inkscape:cy="876.28375"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
